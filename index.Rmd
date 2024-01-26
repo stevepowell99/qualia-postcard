@@ -1,0 +1,17 @@
+---
+title: "Qualia Interviews"
+image: "qbot.png"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/stevepowell99/"
+  - label: Twitter
+    url: "https://twitter.com/stevepowell99"
+  - label: GitHub
+    url: "https://github.com/stevepowell99"
+  - label: Email
+    url: "mailto:hello@causalmap.app"
+output:
+  postcards::jolla
+---
+ 
+Coming soon!
